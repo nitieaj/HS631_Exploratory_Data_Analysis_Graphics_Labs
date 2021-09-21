@@ -1,0 +1,26 @@
+---
+title: "Wweek_5_Exploratory_Data_Analysis_Graphics_Labs"
+author: "Nitie"
+date: "9/21/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+
+
+```{r}
+#Read in dataset
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+
+
+
