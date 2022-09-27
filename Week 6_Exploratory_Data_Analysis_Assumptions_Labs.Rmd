@@ -1,0 +1,21 @@
+---
+title: "Week_6_Exploratory_Data_Analysis_Assumptions_labs"
+output: html_document
+date: "2022-09-27"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+
+```{r}
+
+```
+
+
+## Including Plots
+
+
